@@ -53,7 +53,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#2FBAA3"
+				"foreground": "#acc5e5"	// Modify: light purple
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#2FBAA3"
+				"foreground": "#b3cc82"	// Modify: light blue
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#C77DBB",
+				"foreground": "#c7a6e1",	// Modify: lime
 			}
 		},
 		{

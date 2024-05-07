@@ -41,7 +41,7 @@
 	  {
 		"scope": ["support.type.property-name.json"],
 		"settings": {
-		  "foreground": "#C77DBB"
+		  "foreground": "#c7a6e1",	// Modify: lime
 		}
 	  },
 	  {
