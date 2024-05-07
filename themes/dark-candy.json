@@ -4,58 +4,71 @@
 	"include": "./dark_modern.json",
 	// custom syntax highlighting
 	"tokenColors": [
-	  {
-		"scope": [
-		  "variable.argument.css",
-		  "punctuation.definition.tag",
-		  "entity.name.tag",
-		  "support.function.misc",
-		  "meta.function.variable.css",
-		  "meta.property-value.css support.function",
-		  "meta.selector.css",
-		  "entity.other.attribute-name.css"
-		],
-		"settings": {
-		  "foreground": "#D5B778"
-		}
-	  },
-	  {
-		"scope": [
-		  "keyword.other.unit",
-		  "punctuation.separator.key-value.html",
-		  "meta.tag.attributes keyword.operator.assignment"
-		],
-		"settings": {
-		  "foreground": "#6AAB73"
-		}
-	  },
-	  {
-		"scope": [
-		  "entity.other.attribute-name",
-		  "support.type.property-name.css"
-		],
-		"settings": {
-		  "foreground": "#BABABA"
-		}
-	  },
-	  {
-		"scope": ["support.type.property-name.json"],
-		"settings": {
-		  "foreground": "#c7a6e1",	// Modify: lime
-		}
-	  },
-	  {
-		"scope": ["meta.tag.custom entity.name.tag.html"],
-		"settings": {
-		  "foreground": "#2fbaa3"
-		}
-	  },
-	  {
-		"scope": ["comment.block.documentation", "comment.block.javadoc"],
-		"settings": {
-		  "foreground": "#5F826B"
-		}
-	  }
+		{
+			"scope": [
+				"variable.argument.css",
+				"punctuation.definition.tag",
+				"entity.name.tag",
+				"support.function.misc",
+				"meta.function.variable.css",
+				"meta.property-value.css support.function",
+				"meta.selector.css",
+				"entity.other.attribute-name.css"
+			],
+			"settings": {
+				"foreground": "#D5B778"
+			}
+		},
+		{
+			"scope": [
+				"keyword.other.unit",
+				"punctuation.separator.key-value.html",
+				"meta.tag.attributes keyword.operator.assignment"
+			],
+			"settings": {
+				"foreground": "#6AAB73"
+			}
+		},
+		{
+			"scope": [
+				"entity.other.attribute-name",
+				"support.type.property-name.css"
+			],
+			"settings": {
+				"foreground": "#BABABA"
+			}
+		},
+		{
+			"scope": [
+				"support.type.property-name.json"
+			],
+			"settings": {
+				"foreground": "#c7a6e1", // Modify: lime
+			}
+		},
+		{
+			"scope": [
+				"meta.tag.custom entity.name.tag.html"
+			],
+			"settings": {
+				"foreground": "#2fbaa3"
+			}
+		},
+		{
+			"scope": [
+				"comment.block.documentation",
+				"comment.block.javadoc"
+			],
+			"settings": {
+				"foreground": "#5F826B"
+			}
+		},
+		{
+			"name": "Strings",
+			"scope": "string,string.character.escape,string.template.quoted,string.template.quoted.punctuation,string.template.quoted.punctuation.single,string.template.quoted.punctuation.double,string.type.declaration.annotation,string.template.quoted.punctuation.tag",
+			"settings": {
+				"foreground": "#7caa74"	// Modify: Grass Green
+			}
+		},
 	]
-  }
-  
+}
