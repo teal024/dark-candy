@@ -1,7 +1,7 @@
 {
-  "name": "teal-jetbrains-dark",
-  "displayName": "teal-jetbrains-dark",
-  "description": "JB Dark Personal",
+  "name": "jetbrains-dark-candy",
+  "displayName": "jetbrains-dark-candy",
+  "description": "candy color on jetbrains new dark",
   "version": "0.0.2",
   "publisher": "teal",
   "repository": {
@@ -21,9 +21,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "JB Dark",
+        "label": "jetbrains-dark-candy",
         "uiTheme": "vs-dark",
-        "path": "./themes/JetBrains New Dark-color-theme.json"
+        "path": "darl-candy.json"
       }
     ]
   },
