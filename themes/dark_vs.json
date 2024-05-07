@@ -260,10 +260,10 @@
 		{
 			"scope": [
 				"string",
-				"meta.embedded.assembly"
+				"meta.embedded.assembly"	
 			],
 			"settings": {
-				"foreground": "#6AAB73"
+				"foreground": "#8bc292"  // Modify: Light Green
 			}
 		},
 		{
