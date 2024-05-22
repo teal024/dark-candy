@@ -67,7 +67,7 @@
 			"name": "Strings",
 			"scope": "string,string.character.escape,string.template.quoted,string.template.quoted.punctuation,string.template.quoted.punctuation.single,string.template.quoted.punctuation.double,string.type.declaration.annotation,string.template.quoted.punctuation.tag",
 			"settings": {
-				"foreground": "#acc5e5"	// Modify: Baby blue
+				"foreground": "#c2cc9c"	// Modify: kinda yellow
 			}
 		},
 	]
