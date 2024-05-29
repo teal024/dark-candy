@@ -1,8 +1,8 @@
 {
-  "name": "jetbrains-dark-candy",
-  "displayName": "jetbrains-dark-candy",
+  "name": "dark-candy",
+  "displayName": "dark-candy",
   "description": "candy color on jetbrains new dark",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "publisher": "teal",
   "repository": {
     "type": "git",
@@ -13,7 +13,8 @@
   },
   "keywords": [
     "intellij new dark",
-    "Jetbrains new dark"
+    "Jetbrains new dark",
+    "candy"
   ],
   "categories": [
     "Themes"
@@ -21,7 +22,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "jetbrains-dark-candy",
+        "label": "dark-candy",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-candy.json"
       }
