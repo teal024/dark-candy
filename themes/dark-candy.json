@@ -43,7 +43,7 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#c7a6e1", // Modify: light purple
+				"foreground": "#66A6FF"
 			}
 		},
 		{
@@ -67,8 +67,8 @@
 			"name": "Strings",
 			"scope": "string,string.character.escape,string.template.quoted,string.template.quoted.punctuation,string.template.quoted.punctuation.single,string.template.quoted.punctuation.double,string.type.declaration.annotation,string.template.quoted.punctuation.tag",
 			"settings": {
-				"foreground": "#c2cc9c"	// Modify: kinda yellow
+				"foreground": "#acc5e5"	// Modify: Baby blue
 			}
-		},
+		}
 	]
 }

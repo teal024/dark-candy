@@ -13,7 +13,7 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#66A6FF"
+				"foreground": "#cac2f4",	// Modify: light purple
 			}
 		},
 		{
@@ -53,7 +53,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#acc5e5"	// Modify: Baby blue
+				"foreground": "#c9baa6"	// Modify: kinda orange
 			}
 		},
 		{
@@ -81,7 +81,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#CF8E6D"
+				"foreground": "#de9773"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#c7a6e1",	// Modify: light purple
+				"foreground": "#66A6FF"
 			}
 		},
 		{
@@ -178,7 +178,7 @@
 				"constant.other.option"
 			],
 			"settings": {
-				"foreground": "#CF8E6D"
+				"foreground": "#de9773"
 			}
 		},
 		{
@@ -195,7 +195,7 @@
 		}
 	],
 	"semanticTokenColors": {
-		"newOperator":"#CF8E6D",
+		"newOperator":"#de9773",
 		"stringLiteral":"#6AAB73",
 		"customLiteral": "#66A6FF",
 		"numberLiteral": "#2AACB8",
