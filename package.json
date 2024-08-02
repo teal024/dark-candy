@@ -1,8 +1,8 @@
 {
-  "name": "jetbrains-dark-candy",
-  "displayName": "jetbrains-dark-candy",
-  "description": "candy color on jetbrains new dark",
-  "version": "0.1.1",
+  "name": "github-candy",
+  "displayName": "github-candy",
+  "description": "low-contrast candy color based on github color scheme, forked from the jetbrains-new-dark theme",
+  "version": "0.0.1",
   "publisher": "teal",
   "repository": {
     "type": "git",
