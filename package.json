@@ -2,7 +2,7 @@
   "name": "github-candy",
   "displayName": "github-candy",
   "description": "low-contrast candy color based on github color scheme, forked from the jetbrains-new-dark theme",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "publisher": "teal",
   "repository": {
     "type": "git",
